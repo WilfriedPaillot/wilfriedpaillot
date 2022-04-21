@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wilfried PAILLOT</h1>
 <h3 align="center">A French full stack developer, passionate about IT since my youngest age, curious and eager for knowledge, I like to learn every day!</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently continuing learning **Ruby on Rails**
 
-- 👯 I’m currently collaborate on **LearnIt**
+- 👯 I’m currently working on **EcoDevIT**
 
 - 🤝 I’m looking for **developer job**
 
