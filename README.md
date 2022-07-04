@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently continuing learning **Ruby on Rails**
 
-- 👯 I’m currently working on **EcoDevIT**
+- 👯 I continue to prepare my presentation in front of the web developer eligibility juries with **[EcoDevIT](http://ecodevits.herokuapp.com/)** and mentor a group of [THP](https://www.thehackingproject.org) students. To help and allow them to evaluate all the possibilities, I work in parallel on [Pizza-Yolo](https://ma-pizza-yolo.herokuapp.com/) .
 
-- 🤝 I’m looking for **developer job**
+- 🤝 I’m looking for **first developer job** or **internship**, to continue learning and practicing useful.
 
 - 📝 I occasionally write articles on [https://medium.com/@paillotwilfried](https://medium.com/@paillotwilfried)
 
