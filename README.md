@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Wilfried PAILLOT</h1>
-<h3 align="center">A French full stack developer, passionate about IT since my youngest age, curious and eager for knowledge, I like to learn every day!</h3>
+<h3 align="center">A French full stack developer, passionate about IT since my youngest age, curious and eager for knowledge, I like to learn and share every day</h3>
 
-- 🌱 I’m currently continuing learning **Ruby on Rails**
+- :computer: I’m working for a french social network since the 1st September 2022
 
-- 👯 I continue to prepare my presentation in front of the web developer eligibility juries with **[EcoDevIT](http://ecodevits.herokuapp.com/)** and mentor a group of [THP](https://www.thehackingproject.org) students. To help and allow them to evaluate all the possibilities, I work in parallel on [Pizza-Yolo](https://hop-ma-pizza.herokuapp.com/) .
+- :rainbow: Ruby, Rails, and a little Javascript are enough for my happiness ;)
 
-- 🤝 I’m looking for **first developer job** or **internship**, to continue learning and practicing useful.
+- :people_holding_hands: I like to work in pair programming, also in autonomy, but always in agility
 
-- 📝 I occasionally write articles on [https://medium.com/@paillotwilfried](https://medium.com/@paillotwilfried)
+- ⚡ Fun fact **I started on Amiga 1200 and first lines are in Pascal :sweat_smile:**
+
 
 - 📫 How to reach me **paillotwilfried@gmail.com**
 
-- ⚡ Fun fact **I started on Amiga 1200 and first lines are in Pascal :sweat_smile:**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
