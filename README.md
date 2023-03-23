@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilfried PAILLOT</h1>
 <h3 align="center">A French full stack developer, passionate about IT since my youngest age, curious and eager for knowledge, I like to learn and share every day</h3>
 
-- :computer: I’m working for a french social network since the 1st September 2022
+- :computer: For the last 6 months I was working for a French social network
 
 - :rainbow: Ruby, Rails, and a little Javascript are enough for my happiness ;)
 
